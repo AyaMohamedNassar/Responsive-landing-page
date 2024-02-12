@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Facial cleanser",
+    "price": 50,
+    "category": "cleanser",
+    "image": "../Images/product-01.jpg",
+    "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+  },
+  {
+    "id": 2,
+    "name": "Bio-shroom Rejuvenating Serum",
+    "category": "Serum",
+    "price": 25,
+    "image": "../Images/product-02.jpg",
+    "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+  },
+  {
+    "id": 3,
+    "name": "Coffee Bean Caffeine Eye Cream",
+    "category": "EyeCream",
+    "price": 29,
+    "image": "../Images/product-03.jpg",
+    "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+  },
+  {
+    "id": 4,
+    "name": "Facial cleanser",
+    "category": "cleanser",
+    "price": 20,
+    "image": "../Images/product-04.jpg",
+    "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+  },
+  {
+    "id": 5,
+    "name": "Coffee Bean Caffeine Eye Cream",
+    "category": "EyeCream",
+    "price": 30,
+    "image": "../Images/product-05.jpg",
+    "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+  },
+  {
+    "id": 6,
+    "name": "Facial cleanser",
+    "category": "cleanser",
+    "price": 35,
+    "image": "../Images/product-06.jpg",
+    "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+  },
+  {
+    "id": 7,
+    "name": "Facial cleanser",
+    "price": 20,
+    "category": "cleanser",
+    "image": "../Images/product-07.jpg",
+    "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+  },
+  {
+    "id": 8,
+    "name": " Bio-shroom Rejuvenating Serum",
+    "category": "Serum",
+    "price": 50,
+    "image": "../Images/product-08.jpg",
+    "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+  },
+  {
+    "id": 9,
+    "name": "Coffee Bean Caffeine Eye Cream",
+    "category": "EyeCream",
+    "price": 7.99,
+    "image": "../Images/product-09.jpg",
+    "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+  },
+  {
+    "id": 10,
+    "name": "Facial cleanser",
+    "category": "cleanser",
+    "price": 10,
+    "image": "../Images/product-10.jpg",
+    "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+  },
+  {
+    "id": 11,
+    "name": "Coffee Bean Caffeine Eye Cream",
+    "category": "EyeCream",
+    "price": 20,
+    "image": "../Images/product-11.jpg",
+    "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+  }
+]
